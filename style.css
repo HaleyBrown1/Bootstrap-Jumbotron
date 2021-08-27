@@ -1,16 +1,18 @@
 div.row div{
     border: 3px solid rgb(83, 83, 83);
-    background-color: rgb(255, 157, 144);
+    background-color: rgba(255, 157, 144, 0.493);
     text-align: center;
     color: rgb(83, 83, 83);
     font-family: serif;
     font-size: medium;
 }
+
 .jumbotron{
-    text-align: center;
-    border: 3px solid rgb(83, 83, 83);
-    background-color: rgb(255, 157, 144);
-    color: rgb(83, 83, 83);
+    background-image: url("./img/ProfilePicture.jpg");
+    background-size: cover;
+    background-size: contain;
     font-family: serif;
     font-size: medium;
+    text-align: center;
+    border: 3px solid rgb(83, 83, 83);
 }
