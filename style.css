@@ -17,3 +17,8 @@ div.row div{
     color:rgb(167, 205, 255);
     border: 3px solid rgb(167, 205, 255);
 }
+
+div.row img{
+    height:300px;
+    width:400px;
+}
