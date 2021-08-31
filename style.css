@@ -1,6 +1,6 @@
 div.row div{
-    border: 3px solid rgb(83, 83, 83);
-    background-color: rgba(255, 157, 144, 0.493);
+    border: 3px solid rgb(167, 205, 255);
+    background-color: rgba(205, 239, 255, 0.74);
     text-align: center;
     color: rgb(83, 83, 83);
     font-family: serif;
@@ -14,5 +14,6 @@ div.row div{
     font-family: serif;
     font-size: medium;
     text-align: center;
-    border: 3px solid rgb(83, 83, 83);
+    color:rgb(167, 205, 255);
+    border: 3px solid rgb(167, 205, 255);
 }
